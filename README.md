@@ -20,6 +20,8 @@ Visit Demo app: https://e-commerce-shoe-store-eight.vercel.app/
 - MongoDB
 
 ### DevOps
+- Frontend: Vercel
+- Backend: Render
 - Docker (multi-container setup)
 ---
 
